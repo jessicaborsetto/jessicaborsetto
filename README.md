@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=BBD74F&vCenter=true&random=false&width=500&lines=Hello+fellow+developer;Jessica+here!)](https://git.io/typing-svg)
 <body style="font-family: 'Poppins', sans-serif; color:#ececec; background-color: #0D1117;" >
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dacbjh5-9642d41b-8f03-4d32-a07c-b13c06f206f8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGFjYmpoNS05NjQyZDQxYi04ZjAzLTRkMzItYTA3Yy1iMTNjMDZmMjA2ZjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9bXbpd_v-v3nJoRm9Z0cDFX8N5GIbGD_fqRaPUpg6iI" alt="">
-</a>
+  <a href="https://www.instagram.com/kirokaze/" style="text-decoration: none; color: #ececec;"><address>Credit to  Kirokaze on instagram</address></a>
     <div>
    <h3 style="text-align: center;">Unleashing Dark Code Sorcery &#127761;&#128187;</h3>
 </div>
