@@ -15,8 +15,11 @@
         &#129497;: Weaving spells with HTML, CSS, and JavaScript, I conjure digital enchantments that dance in the moonlight.
         <br>
         &#128302;Framework Alchemist : Crafting cyberware with React transforming mundane code into avant-garde masterpieces.
-        <br>
-        <i>Let's embark on this dark odyssey together. Join me in the shadows as we code our way through the cyberpunk cityscape.  </i>&#127747;&#10024;
+       <br>
+       🎮 Gamer's Heart:
+Adding a dash of passion for video games and role-playing, I'm a fervent adventurer in both the digital and tabletop realms. Whether crafting code or conquering virtual realms, I'm all in for the journey.
+       <br>
+       <i>Let's embark on this dark odyssey together. Join me in the shadows as we code our way through the cyberpunk cityscape.  </i>&#127747;&#10024;
     </p>
     <div>
       <img align="left" margin: 0 0 10px 10px;" width="70" height="70" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-coding-web-flatart-icons-flat-flatarticons.png" alt="external-coding-web-flatart-icons-flat-        flatarticons"/>
