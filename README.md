@@ -45,6 +45,8 @@ Adding a dash of passion for video games and role-playing, I'm a fervent adventu
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="80" height="80"/> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" height="80"/>
     <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019" width="80" height="80" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     <hr>
     <h3>Where to find me</h3>
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/jessica-borsetto-front-end-developer/" target="blank"><img width="60" height="60" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
